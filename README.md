@@ -8,6 +8,11 @@ My name is Nathan, a Software Engineer currently working on parallel algorithms,
 
 ## My projects
 
+- **[Enhanced multimodal DL approach for Polar region sea ice classification](https://github.com/nathan-g1/mm-transformer-model)**
+
+  - An ongoing research on Multimodal Deep Learning
+
+
 - **[Public parameters in Non-interactive Zero-Knowledge proofs](https://github.com/nathan-g1/ni-zkp.git)**
 
   - An ongoing research on public parameters in NIZKPs
