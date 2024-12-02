@@ -1,6 +1,6 @@
 # Hello! Nice to see you
 
-My name is Nathan, a Software Engineer currently working on parallel algorithms, blockchain algorithms
+My name is Nathan, a Software Engineer currently working on DL, AI, parallel algorithms, and blockchain algorithms
 
 ## Languages and tools I use
 
